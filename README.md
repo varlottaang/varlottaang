@@ -2,8 +2,8 @@
 
 "È tutto sbagliato, è tutto da rifare".
 
-- 🔭 I’m currently working on Applied AI for Sustainability
-- 🌱 I’m currently learning Graph Machine Learning
+- 🌱 I’m currently working on Applied AI for Sustainability
+- 🔭 I’m currently learning Graph Machine Learning
 
 <!--
 **varlottaang/varlottaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
