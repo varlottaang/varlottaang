@@ -3,7 +3,7 @@
 "È tutto sbagliato, è tutto da rifare".
 
 - 🌱 I’m currently working on Applied AI for Lifesciences and Mental Health
-- 
+  
 <!--
 **varlottaang/varlottaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
